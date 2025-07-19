@@ -1,1 +1,1 @@
-# sentiment_analysis_on_dataset_of_Amazon_reviews
+# sentiment_analysis_on_dataset_of_amazon_reviews
